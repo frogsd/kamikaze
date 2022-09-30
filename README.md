@@ -10,10 +10,10 @@ It generates a configurable number of random GET requests and sends them to the 
 kamikaze.py < Hostname > < Port > < Number_of_Attacks >
 ```
 
-# website : 
+# contact me: 
 
 ```
-https://www.zeroday-sudan.ml
+https://t.me/frogsec
 
 
 ```
